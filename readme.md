@@ -24,3 +24,14 @@ I have Apps in my project:
 `python manage.py runserver`
 
 
+-----------------
+
+* Make **Frontend app** -> Add Templates folder -> Add static folder (inside it make css , frontend, images folder) -> src folder.
+
+* `npm init -y` -> is going to create a node modules, package.JSON and all the other thing we need for frontend project.
+
+* **webpack** is going to do is take all of our source javaScript stuff and bundle it into one single JavaScript file `npm install webpack webpack-cli --save-dev`
+
+* install Bable
+
+
